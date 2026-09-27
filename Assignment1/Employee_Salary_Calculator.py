@@ -29,6 +29,7 @@ net_salary = calculate_net_salary(gross_salary, tax)
 with open('employee_salary_calculator.txt', 'a') as file:
     file.write(f"{employee_name}, {basic_salary}, {allowance}, {tax_rate}, {tax}, {net_salary}\n")
 
+
 print("\n==========Employee Salary Calculator==========")
 print("Employee Name = ", employee_name)
 print("Basic Salary = ", basic_salary)
