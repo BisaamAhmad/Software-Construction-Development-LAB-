@@ -1,0 +1,8 @@
+
+--- Cart 1 ---
+Mobile: Rs. 35000.00
+Total: Rs. 35000.00
+
+--- Cart 2 ---
+Cart is empty.
+Total: Rs. 0.00
